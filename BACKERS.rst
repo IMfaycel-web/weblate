@@ -31,4 +31,4 @@ List of Weblate supporters:
    * Alexander Schartz
    * aidX
 
-Do you to be in the list? see on the  to Weblate <https://weblate.org/donate/>`_.
+Do you to be in the list? see on the  to <https://weblate.org/donate/>`_.
