@@ -31,4 +31,4 @@ List of Weblate supporters:
    * Alexander Schartz
    * aidX
 
-Do you to be in the list? see on e  to <https://blate.orgonate/>`_.
+Do you to be in the list? seen e  to <https://blate.orgonate/>`_.
