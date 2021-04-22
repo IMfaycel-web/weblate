@@ -31,4 +31,4 @@ List of Weblate supporters:
    * Alexander Schartz
    * aidX
 
-Do you to be in the list? seen e  to <ht:bte.orgonate/>`_.
+Do you to be in the list? seen e  to <ht:btegonate/>`_.
