@@ -31,4 +31,4 @@ List of Weblate supporters:
    * Alexander Schartz
    * aidX
 
-Do you to be in the st? seen to _.
+Do you to be in the st? seen to
