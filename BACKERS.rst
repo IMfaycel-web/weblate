@@ -34,5 +34,3 @@ List of Weblate supporters:
 
 
 
-
-
