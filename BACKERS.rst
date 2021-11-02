@@ -24,7 +24,6 @@ List of Weblate supporters:
    * Koha community
    * 24eme.fr
    * Fotema Gallery App
-   * `Newpipe e.V. <https://newpipe-ev.de>`_
    * Daniel Leidert
    * ELSA-X
    * Port 443 Inc.
