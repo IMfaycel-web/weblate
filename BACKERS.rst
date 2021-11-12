@@ -20,7 +20,6 @@ List of Weblate supporters:
    * James Valleroy
    * wallabag.org
    * `Scenari (Kelis) <https://scenari.software/>`_
-   * `BibLibre (Koha community) <https://www.biblibre.com/>`_
    * Koha community
    * 24eme.fr
    * Fotema Gallery App
