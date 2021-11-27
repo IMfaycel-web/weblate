@@ -19,7 +19,6 @@ List of Weblate supporters:
    * Michael Totschnig
    * James Valleroy
    * wallabag.org
-   * `Scenari (Kelis) <https://scenari.software/>`_
    * Koha community
    * 24eme.fr
    * Fotema Gallery App
