@@ -11,7 +11,6 @@ List of Weblate supporters:
    * `Cassidy James <https://cassidyjames.com/>`_
    * Loic Dachary
    * Marozed
-   * https://freedombox.org/
    * Richard Nespithal
    * MyExpenses.Mobi
    * Michael Totschnig
