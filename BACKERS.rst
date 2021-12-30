@@ -23,7 +23,3 @@ List of Weblate supporters:
    * Port 443 Inc.
    * Alexander Schartz
    * aidX
-
-
-
-
