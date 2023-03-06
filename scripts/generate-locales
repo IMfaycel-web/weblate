@@ -1,0 +1,3 @@
+set -e
+
+./setup.py build_mo

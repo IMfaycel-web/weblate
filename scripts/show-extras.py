@@ -1,0 +1,33 @@
+import re
+import tomllib
+
+print(
+    """
+.. Table is generated using scripts/show-extras.py
+
+.. list-table:: Optional dependencies
+     :header-rows: 1
+
+     * - Optional dependency specifier
+       - Python packages
+       - Weblate feature
+"""
+)
+indent = "     "
+
+with open("pyproject.toml", "rb") as handle:
+    toml_dict = tomllib.load(handle)
+
+for section, data in toml_dict["project"]["optional-dependencies"].items():
+    if section == "all":
+        continue
+    # Section name
+    print(f"{indent}* - ``{section}``")
+    # Actual dependencies
+    dependencies = [re.split(r"[;<>=[]", dependency)[0].strip() for dependency in data]
+    dependencies_links = [f"| :pypi:`{dependency}`" for dependency in dependencies]
+    dependencies_str = f"\n{indent}    ".join(dependencies_links)
+    print(f"{indent}  - {dependencies_str}")
+    # Placeholder for description
+    print(f"{indent}  -")
+    print()
